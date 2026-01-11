@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student at **Vellore Institute of Technology – Andhra Pradesh**
+- 🎓 Computer Science student at **Vellore Institute of Technology,Andhra Pradesh**
 - 🧠 Strong interest in **Data Structures & Algorithms**
 - ☕ Comfortable with **Core Java & OOP concepts**
 - 🐍 Learning **Python** for problem-solving & data science
