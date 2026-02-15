@@ -10,10 +10,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
+---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student at **Vellore Institute of Technology,Andhra Pradesh**
+- 🎓 Computer Science student at **Vellore Institute of Technology, Andhra Pradesh**
 - 🧠 Strong interest in **Data Structures & Algorithms**
 - ☕ Comfortable with **Core Java & OOP concepts**
 - 🐍 Learning **Python** for problem-solving & data science
@@ -36,17 +37,14 @@
 | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) |
 | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | [![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) |
-| ![Verilog](https://img.shields.io/badge/Verilog-EE2E24?style=for-the-badge&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) |
-| ![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+| ![Verilog](https://img.shields.io/badge/Verilog-EE2E24?style=for-the-badge&logoColor=white) |  |  |
+| ![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white) |  |  |
 
 </div>
 
-
-
-
 ---
-
-
 
 ## 🧠 Core Strengths
 
@@ -70,11 +68,10 @@
 
 > **Hardware-integrated fire-fighting robot with a web control dashboard**
 
-* **🎯 Purpose:** Detect fire using sensors.
+* **🎯 Purpose:** Detect fire using sensors.  
 * **✨ Highlights:**
-    * **Embedded Logic:** C code running on Arduino for sensor processing and motor control.
-    * **IoT Integration:** Bridge between hardware sensors.
-  
+  * **Embedded Logic:** C code running on Arduino for sensor processing and motor control.  
+  * **IoT Integration:** Bridge between hardware sensors.
 
 ---
 
@@ -83,10 +80,10 @@
 
 > **An awareness website built for academic exhibition purposes**
 
-* **🎯 Purpose:** Educate users about digital well-being metrics and habits.
+* **🎯 Purpose:** Educate users about digital well-being metrics and habits.  
 * **✨ Highlights:**
-    * Visual presentation of addiction indicators.
-    * Readability-first design focused on user awareness.
+  * Visual presentation of addiction indicators.  
+  * Readability-first design focused on user awareness.
 
 ---
 
@@ -95,10 +92,10 @@
 
 > **A lightweight booking system focused on frontend logic**
 
-* **🎯 Purpose:** Practice frontend logic and UI-based system design without heavy backend.
+* **🎯 Purpose:** Practice frontend logic and UI-based system design without heavy backend.  
 * **✨ Highlights:**
-    * Complex booking slot handling logic using pure JS.
-    * Clean UI designed for easy academic project integration.
+  * Complex booking slot handling logic using pure JS.  
+  * Clean UI designed for easy academic project integration.
 
 ---
 
@@ -107,15 +104,14 @@
 
 > **Console-based banking application using Java OOP**
 
-* **🎯 Purpose:** Apply strict Object-Oriented Programming (OOP) concepts.
+* **🎯 Purpose:** Apply strict Object-Oriented Programming (OOP) concepts.  
 * **✨ Highlights:**
-    * Full account lifecycle (Creation → Deposit → Withdrawal).
-    * Robust use of Classes, Objects, and Methods.
+  * Full account lifecycle (Creation → Deposit → Withdrawal).  
+  * Robust use of Classes, Objects, and Methods.
 
 ---
+
 <p align="center"><i>🔜 More projects coming as I continue learning and building.</i></p>
-
-
 
 ---
 
@@ -127,6 +123,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit2006&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=6" height="150" alt="Top Languages" />
 </div>
 
+---
 
 ## 📫 Connect With Me
 
