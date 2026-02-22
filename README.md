@@ -89,15 +89,6 @@
 
 ---
 
-## 🏦 Bank Management System
-**Tech:** Java (OOP Based)
-
-- Account creation & transaction handling
-- Strict implementation of OOP concepts
-- Console-based structured design
-
----
-
 <p align="center"><i>🔜 More projects coming as I continue learning Data Science & System Design.</i></p>
 
 ---
