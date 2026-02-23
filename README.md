@@ -144,3 +144,8 @@
 <p align="center">
   <i style="color: #00ff00;">“Consistency beats talent when talent doesn’t work consistently.”</i>
 </p>
+
+## 📊 Dev Metrics
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
