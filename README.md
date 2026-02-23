@@ -99,25 +99,6 @@
 
 ---
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arpit2006&show_icons=true&theme=dark&hide_border=true" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit2006&layout=compact&theme=dark&hide_border=true" height="150"/>
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/arpit2006/arpit2006/output/snake.svg" />
-</div>
-
----
 
 ## 💬 Developer Mindset
 
