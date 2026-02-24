@@ -129,11 +129,13 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 251.3 kB Used in GitHub's Storage 
  > 
-> 🏆 14 Contributions in the Year 2026
+> 🏆 15 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -141,6 +143,46 @@
  > 
 > 🔑 25 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+🌆 Daytime                42 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+🌃 Evening                160 commits         ███████████████░░░░░░░░░░   61.54 % 
+🌙 Night                  46 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   62 commits          ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+Tuesday                  25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Wednesday                46 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Thursday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Friday                   11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Saturday                 31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Sunday                   50 commits          █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+SQL                      2 hrs 46 mins       █████████████████████████   99.98 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 46 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Data Science             2 hrs 46 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  2 hrs 46 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -154,5 +196,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2026 19:38:17 UTC
+ Last Updated on 24/02/2026 18:59:09 UTC
 <!--END_SECTION:waka-->
