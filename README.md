@@ -129,7 +129,7 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2050%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -196,5 +196,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/02/2026 18:59:09 UTC
+ Last Updated on 24/02/2026 19:30:52 UTC
 <!--END_SECTION:waka-->
