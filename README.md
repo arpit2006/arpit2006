@@ -129,7 +129,7 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2050%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -170,17 +170,18 @@ Sunday                   50 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-SQL                      2 hrs 46 mins       █████████████████████████   99.98 % 
+SQL                      2 hrs 46 mins       █████████████████████████   98.07 % 
+Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Data Science             2 hrs 46 mins       █████████████████████████   100.00 % 
+Data Science             2 hrs 50 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -196,5 +197,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/02/2026 19:32:27 UTC
+ Last Updated on 26/02/2026 19:15:09 UTC
 <!--END_SECTION:waka-->
