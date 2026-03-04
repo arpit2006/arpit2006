@@ -170,18 +170,17 @@ Sunday                   50 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-SQL                      2 hrs 46 mins       █████████████████████████   98.07 % 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   3 mins              █████████████████████████   99.18 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Data Science             2 hrs 50 mins       █████████████████████████   100.00 % 
+Data Science             3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -197,5 +196,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/03/2026 19:14:16 UTC
+ Last Updated on 04/03/2026 19:11:38 UTC
 <!--END_SECTION:waka-->
