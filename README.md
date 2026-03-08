@@ -129,11 +129,11 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2047%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 256.5 kB Used in GitHub's Storage 
+> 📦 257.2 kB Used in GitHub's Storage 
  > 
 > 🏆 15 Contributions in the Year 2026
  > 
@@ -146,21 +146,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-🌆 Daytime                43 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-🌃 Evening                166 commits         ███████████████░░░░░░░░░░   61.71 % 
-🌙 Night                  48 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+🌆 Daytime                43 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+🌃 Evening                168 commits         ███████████████░░░░░░░░░░   61.99 % 
+🌙 Night                  48 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   62 commits          ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-Tuesday                  25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Wednesday                44 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Thursday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Friday                   11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-Saturday                 40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Sunday                   52 commits          █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+Monday                   62 commits          ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+Tuesday                  25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Wednesday                44 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Thursday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Friday                   11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Saturday                 40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Sunday                   54 commits          █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
 ```
 
 
@@ -170,16 +170,24 @@ Sunday                   52 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               13 mins             █████████████████████████   100.00 % 
+TypeScript               4 hrs 1 min         █████████████░░░░░░░░░░░░   50.62 % 
+HTML                     1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+Markdown                 1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+SQL                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+VS Code                  7 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-heheh                    13 mins             █████████████████████████   100.00 % 
+Prompt Enhancer          4 hrs 59 mins       ████████████████░░░░░░░░░   62.65 % 
+heheh                    1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+PortfolioArpit           48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Data Science             31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+files                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+Windows                  7 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -195,5 +203,5 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/03/2026 18:56:02 UTC
+ Last Updated on 08/03/2026 18:57:23 UTC
 <!--END_SECTION:waka-->
