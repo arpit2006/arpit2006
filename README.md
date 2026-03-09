@@ -129,11 +129,11 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2043%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 257.2 kB Used in GitHub's Storage 
+> 📦 261.3 kB Used in GitHub's Storage 
  > 
 > 🏆 15 Contributions in the Year 2026
  > 
@@ -146,21 +146,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-🌆 Daytime                43 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-🌃 Evening                168 commits         ███████████████░░░░░░░░░░   61.99 % 
-🌙 Night                  48 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+🌆 Daytime                43 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+🌃 Evening                170 commits         ████████████████░░░░░░░░░   62.04 % 
+🌙 Night                  49 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   62 commits          ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-Tuesday                  25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Wednesday                44 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Thursday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Friday                   11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-Saturday                 40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Sunday                   54 commits          █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Monday                   64 commits          ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+Tuesday                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Wednesday                44 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Thursday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Friday                   11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Saturday                 40 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Sunday                   54 commits          █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
 ```
 
 
@@ -170,24 +170,24 @@ Sunday                   54 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 1 min         █████████████░░░░░░░░░░░░   50.62 % 
-HTML                     1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-Markdown                 1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-SQL                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+TypeScript               4 hrs 1 min         ██████████░░░░░░░░░░░░░░░   40.96 % 
+HTML                     1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+Python                   1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Markdown                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+SQL                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Prompt Enhancer          4 hrs 59 mins       ████████████████░░░░░░░░░   62.65 % 
-heheh                    1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-PortfolioArpit           48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Data Science             31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-files                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Prompt Enhancer          4 hrs 59 mins       █████████████░░░░░░░░░░░░   50.70 % 
+Data Science             2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+heheh                    1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+PortfolioArpit           48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+files                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 💻 Operating System: 
-Windows                  7 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -203,5 +203,5 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/03/2026 18:57:23 UTC
+ Last Updated on 09/03/2026 19:14:23 UTC
 <!--END_SECTION:waka-->
