@@ -129,7 +129,7 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2033%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -170,22 +170,22 @@ Sunday                   52 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   6 hrs 36 mins       ███████████████████░░░░░░   77.84 % 
-HTML                     1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-TypeScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Python                   6 hrs 2 mins        ███████████████████░░░░░░   76.19 % 
+HTML                     1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+TypeScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Data Science             6 hrs 37 mins       ███████████████████░░░░░░   77.91 % 
-Portfolio                1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Prompt Enhancer          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Data Science             6 hrs 2 mins        ███████████████████░░░░░░   76.29 % 
+Portfolio                1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Prompt Enhancer          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 
 💻 Operating System: 
-Windows                  8 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -201,5 +201,5 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/03/2026 19:33:57 UTC
+ Last Updated on 17/03/2026 19:33:51 UTC
 <!--END_SECTION:waka-->
