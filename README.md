@@ -170,22 +170,22 @@ Sunday                   52 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   6 hrs 2 mins        ███████████████████░░░░░░   76.19 % 
-HTML                     1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-TypeScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Python                   5 hrs 58 mins       ████████████████████░░░░░   78.16 % 
+HTML                     1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 38 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Data Science             6 hrs 2 mins        ███████████████████░░░░░░   76.29 % 
-Portfolio                1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Prompt Enhancer          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Data Science             5 hrs 58 mins       ████████████████████░░░░░   78.27 % 
+Portfolio                1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Prompt Enhancer          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 💻 Operating System: 
-Windows                  7 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -201,5 +201,5 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/03/2026 19:33:51 UTC
+ Last Updated on 18/03/2026 19:29:37 UTC
 <!--END_SECTION:waka-->
