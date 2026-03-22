@@ -170,24 +170,22 @@ Sunday                   52 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   6 hrs 8 mins        ███████████████████████░░   93.40 % 
-HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Python                   6 hrs 8 mins        █████████████████████████   99.36 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Data Science             6 hrs 9 mins        ███████████████████████░░   93.53 % 
-Portfolio                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Prompt Enhancer          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Student-Marks-Prediction-1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Data Science             6 hrs 9 mins        █████████████████████████   99.50 % 
+Student-Marks-Prediction-1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Prompt Enhancer          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Windows                  6 hrs 22 mins       ████████████████████████░   96.93 % 
-Linux                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Windows                  5 hrs 58 mins       ████████████████████████░   96.74 % 
+Linux                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -203,5 +201,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/03/2026 18:59:56 UTC
+ Last Updated on 22/03/2026 19:01:09 UTC
 <!--END_SECTION:waka-->
