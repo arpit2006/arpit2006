@@ -170,21 +170,19 @@ Sunday                   52 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 28 mins        ████████████████████████░   97.83 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   10 mins             ██████████████████████░░░   86.97 % 
+Markdown                 1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-VS Code                  1 hr 29 mins        █████████████████████████   100.00 % 
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Data Science             1 hr 28 mins        █████████████████████████   98.25 % 
-Student-Marks-Prediction-1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Data Science             10 mins             ██████████████████████░░░   86.97 % 
+Student-Marks-Prediction-1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
 
 💻 Operating System: 
-Windows                  1 hr 17 mins        ██████████████████████░░░   86.55 % 
-Linux                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Linux                    12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -200,5 +198,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/03/2026 19:26:41 UTC
+ Last Updated on 24/03/2026 19:34:05 UTC
 <!--END_SECTION:waka-->
