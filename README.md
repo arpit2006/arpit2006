@@ -129,38 +129,36 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2045%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 236.8 kB Used in GitHub's Storage 
+> 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 47 Contributions in the Year 2026
+> 🏆 53 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 16 Public Repositories 
  > 
-> 🔑 22 Private Repositories 
+> 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-🌆 Daytime                44 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-🌃 Evening                187 commits         ████████████████░░░░░░░░░   63.18 % 
-🌙 Night                  53 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+🌆 Daytime                47 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+🌃 Evening                190 commits         ████████████████░░░░░░░░░   62.91 % 
+🌙 Night                  53 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   67 commits          ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-Tuesday                  27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Wednesday                43 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Thursday                 48 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Friday                   14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Saturday                 45 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Sunday                   52 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Monday                   67 commits          ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+Tuesday                  27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Wednesday                43 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Thursday                 48 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Friday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Saturday                 45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Sunday                   52 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
 ```
 
 
@@ -170,33 +168,38 @@ Sunday                   52 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   10 mins             ██████████████████████░░░   86.97 % 
-Markdown                 1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Text                     14 mins             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+JavaScript               14 mins             ███████░░░░░░░░░░░░░░░░░░   26.21 % 
+Python                   14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+VS Code                  54 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Data Science             10 mins             ██████████████████████░░░   86.97 % 
-Student-Marks-Prediction-1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Asus                     29 mins             █████████████░░░░░░░░░░░░   52.86 % 
+bank-management-system   19 mins             █████████░░░░░░░░░░░░░░░░   34.92 % 
+AI Health Assitant       5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+PassItOn                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+arpitshirbhate.github.io 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Linux                    12 mins             █████████████████████████   100.00 % 
+Windows                  54 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
 
 ```text
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-CSS                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+CSS                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 24/03/2026 19:34:05 UTC
+ Last Updated on 11/04/2026 19:10:41 UTC
 <!--END_SECTION:waka-->
