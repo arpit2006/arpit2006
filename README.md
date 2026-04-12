@@ -129,36 +129,38 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2019%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 53 Contributions in the Year 2026
+> 🏆 58 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-🌆 Daytime                47 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-🌃 Evening                190 commits         ████████████████░░░░░░░░░   62.91 % 
-🌙 Night                  53 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+🌆 Daytime                47 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+🌃 Evening                194 commits         ████████████████░░░░░░░░░   63.40 % 
+🌙 Night                  53 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   67 commits          ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-Tuesday                  27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Wednesday                43 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Thursday                 48 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Friday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Saturday                 45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Sunday                   52 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Monday                   67 commits          █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+Tuesday                  27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Wednesday                43 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Thursday                 48 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Friday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Saturday                 45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Sunday                   56 commits          █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
 ```
 
 
@@ -168,38 +170,38 @@ Sunday                   52 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Text                     14 mins             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-JavaScript               14 mins             ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-Python                   14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+HTML                     1 hr 4 mins         █████████████░░░░░░░░░░░░   52.41 % 
+Text                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+JavaScript               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Python                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Asus                     29 mins             █████████████░░░░░░░░░░░░   52.86 % 
-bank-management-system   19 mins             █████████░░░░░░░░░░░░░░░░   34.92 % 
-AI Health Assitant       5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-PassItOn                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-arpitshirbhate.github.io 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+arpitshirbhate.github.io 1 hr 8 mins         ██████████████░░░░░░░░░░░   55.52 % 
+Asus                     29 mins             ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+bank-management-system   19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+AI Health Assitant       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+PassItOn                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 💻 Operating System: 
-Windows                  54 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
 
 ```text
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-CSS                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+CSS                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 ```
 
 
 
 
- Last Updated on 11/04/2026 19:10:41 UTC
+ Last Updated on 12/04/2026 19:12:37 UTC
 <!--END_SECTION:waka-->
