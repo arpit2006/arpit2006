@@ -129,7 +129,7 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2048%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -170,25 +170,25 @@ Sunday                   56 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 57 mins       ████████████████░░░░░░░░░   62.69 % 
-HTML                     1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Python                   4 hrs 11 mins       ████████████████░░░░░░░░░   62.52 % 
+HTML                     1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Markdown                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Data Science             3 hrs 59 mins       ████████████████░░░░░░░░░   63.06 % 
-arpitshirbhate.github.io 1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-bank-management-system   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Student-Marks-Prediction-14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Sales-Profit-Prediction-M8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Data Science             4 hrs 11 mins       ████████████████░░░░░░░░░   62.37 % 
+arpitshirbhate.github.io 1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+bank-management-system   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Student-Marks-Prediction-14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+first-contributions      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 💻 Operating System: 
-Windows                  6 hrs 4 mins        ████████████████████████░   96.14 % 
-Linux                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Windows                  6 hrs 27 mins       ████████████████████████░   96.36 % 
+Linux                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -204,5 +204,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2026 19:48:08 UTC
+ Last Updated on 15/04/2026 19:48:57 UTC
 <!--END_SECTION:waka-->
