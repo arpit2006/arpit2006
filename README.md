@@ -170,25 +170,25 @@ Sunday                   56 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs 11 mins       ████████████████░░░░░░░░░   62.52 % 
-HTML                     1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Markdown                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Python                   4 hrs 27 mins       █████████████████░░░░░░░░   66.76 % 
+HTML                     1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+SQL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 42 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Data Science             4 hrs 11 mins       ████████████████░░░░░░░░░   62.37 % 
-arpitshirbhate.github.io 1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-bank-management-system   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Student-Marks-Prediction-14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-first-contributions      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Data Science             4 hrs 26 mins       █████████████████░░░░░░░░   66.61 % 
+arpitshirbhate.github.io 1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Student-Marks-Prediction-14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+first-contributions      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+bank-management-system   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 💻 Operating System: 
-Windows                  6 hrs 27 mins       ████████████████████████░   96.36 % 
-Linux                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Windows                  6 hrs 25 mins       ████████████████████████░   96.34 % 
+Linux                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -204,5 +204,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/04/2026 19:36:47 UTC
+ Last Updated on 18/04/2026 19:14:07 UTC
 <!--END_SECTION:waka-->
