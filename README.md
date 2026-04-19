@@ -129,38 +129,38 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2033%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 148 Contributions in the Year 2026
+> 🏆 154 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 23 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-🌆 Daytime                48 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-🌃 Evening                200 commits         ████████████████░░░░░░░░░   63.90 % 
-🌙 Night                  53 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+🌆 Daytime                49 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+🌃 Evening                202 commits         ████████████████░░░░░░░░░   63.92 % 
+🌙 Night                  53 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   70 commits          ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-Tuesday                  31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Wednesday                43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Thursday                 48 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Friday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Saturday                 45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Sunday                   56 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Monday                   70 commits          ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+Tuesday                  31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Wednesday                43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Thursday                 48 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Friday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Saturday                 45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Sunday                   59 commits          █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
 ```
 
 
@@ -170,39 +170,39 @@ Sunday                   56 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs 27 mins       █████████████████░░░░░░░░   66.76 % 
-HTML                     1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-SQL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Python                   4 hrs 27 mins       ███████████████░░░░░░░░░░   61.54 % 
+Markdown                 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Other                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Data Science             4 hrs 26 mins       █████████████████░░░░░░░░   66.61 % 
-arpitshirbhate.github.io 1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Student-Marks-Prediction-14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-first-contributions      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-bank-management-system   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Data Science             4 hrs 26 mins       ███████████████░░░░░░░░░░   61.40 % 
+PASS                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+src                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+PassItOn                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 💻 Operating System: 
-Windows                  6 hrs 25 mins       ████████████████████████░   96.34 % 
-Linux                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Windows                  6 hrs 59 mins       ████████████████████████░   96.63 % 
+Linux                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 ```
 
 **I Mostly Code in HTML** 
 
 ```text
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Jupyter Notebook         5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-CSS                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Jupyter Notebook         5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+CSS                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
 ```
 
 
 
 
- Last Updated on 18/04/2026 19:14:07 UTC
+ Last Updated on 19/04/2026 19:14:00 UTC
 <!--END_SECTION:waka-->
