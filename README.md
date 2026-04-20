@@ -129,7 +129,7 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2027%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -139,7 +139,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 22 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -170,25 +170,24 @@ Sunday                   59 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs 27 mins       ███████████████░░░░░░░░░░   61.54 % 
-Markdown                 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Other                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+JavaScript               4 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   36.30 % 
+Python                   3 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+Other                    1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+HTML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 7 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Data Science             4 hrs 26 mins       ███████████████░░░░░░░░░░   61.40 % 
-PASS                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-src                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-PassItOn                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Data Science             3 hrs               ███████░░░░░░░░░░░░░░░░░░   26.98 % 
+PASS                     2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+pages                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Unknown Project          55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+arpitshirbhate.github.io 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
 
 💻 Operating System: 
-Windows                  6 hrs 59 mins       ████████████████████████░   96.63 % 
-Linux                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Windows                  11 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -204,5 +203,5 @@ Java                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/04/2026 19:14:00 UTC
+ Last Updated on 20/04/2026 19:39:28 UTC
 <!--END_SECTION:waka-->
