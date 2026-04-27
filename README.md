@@ -1,26 +1,34 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=33FF00&background=00000000&center=true&vCenter=true&width=700&lines=arpit@fedora:~$+whoami;%3E+Arpit+Rajendra+Shirbhate;arpit@fedora:~$+cat+skills.txt;%3E+Data+Science+%7C+C%2FC%2B%2B+%7C+Java;arpit@fedora:~$+./build_projects.sh;%3E+Building+with+Logic+%26+Consistency..." />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00FF00&background=00000000&center=true&vCenter=true&width=900&lines=booting+ml+pipeline...;loading+datasets...;cleaning+data...;training+models...;evaluating+accuracy...;access+granted+%E2%9C%93;arpit@fedora:~$+whoami;Arpit+Rajendra+Shirbhate;arpit@fedora:~$+cat+role.txt;Aspiring+Data+Scientist+%7C+ML+Enthusiast;arpit@fedora:~$+run+model.py;predicting+insights+from+data..."/>
+
+<p>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-0a0a0a?style=for-the-badge&logo=python&logoColor=00ff00&labelColor=0a0a0a&color=00ff00"/>
+  <img src="https://img.shields.io/badge/FOCUS-DATA%20SCIENCE-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=00e5ff"/>
+  <img src="https://img.shields.io/badge/ML-STAGE-TRAINING-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=00ff00"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/DATA%20LOGS-STREAMING-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=00e5ff"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/arpit2006/arpit2006/main/assets/octocat.png" width="260" />
+
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arpitshirbhate&label=ACCESS%20LOGS&color=00ff00&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arpit2006/arpit2006/main/assets/octocat.png" width="280" />
-</p>
 
 ---
 
 # 👨‍💻 About Me
 
 - 🎓 Computer Science student at **Vellore Institute of Technology, Andhra Pradesh**
-- 🧠 Passionate about **Data Structures & Algorithms**
-- 🐍 Exploring **Python for Data Science & Machine Learning**
-- 📊 Focused on **EDA, Visualization & Model Building**
-- 🕸 Learning **Web Scraping (Requests & BeautifulSoup)**
-- 🐧 Fedora Linux user
-- 🚀 Strong believer in fundamentals over shortcuts
+- 📊 Aspiring **Data Scientist** with a strong focus on **Data Analysis, Machine Learning, and problem solving**
+- 🧠 Solid foundation in **Data Structures & Algorithms** and **Object-Oriented Programming (Java)**
+- 🐍 Working with **Python ecosystem** for data science — Pandas, NumPy, Matplotlib, scikit-learn
+- 📈 Building **end-to-end data projects** involving EDA, feature engineering, and model development
+- 🕸 Experienced in **web scraping** using Requests & BeautifulSoup for real-world data collection
+- 🌐 Familiar with **full-stack basics** (React, Node.js) for deploying and presenting projects
+- 🐧 Comfortable working in **Linux (Fedora)** and developer tools like Git & VS Code
+- 🚀 Focused on writing **clean, efficient, and scalable code** and continuously improving through practice
 
 ---
 
@@ -34,6 +42,7 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
@@ -47,6 +56,10 @@
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/EDA-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model%20Building-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model%20Evaluation-009688?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Requests-2E8B57?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/BeautifulSoup-8B4513?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
@@ -83,7 +96,10 @@
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2ea44f?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-007ACC?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving%20%26%20Logic-FF7139?style=for-the-badge)
-![Time Complexity](https://img.shields.io/badge/Time%20%26%20Space%20Complexity-7952B3?style=for-the-badge)
+![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-4CAF50?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-6A1B9A?style=for-the-badge)
+![Model Building](https://img.shields.io/badge/Model%20Building-FF9800?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-009688?style=for-the-badge)
 ![Clean Code](https://img.shields.io/badge/Clean%20%26%20Readable%20Code-000000?style=for-the-badge)
 
 </div>
@@ -92,10 +108,11 @@
 
 # 🚀 Current Focus
 
-- 📊 Building end-to-end Data Analysis projects  
-- 🤖 Learning Machine Learning fundamentals  
-- 🕸 Practicing Web Scraping using Requests & BeautifulSoup  
-- 🧠 Strengthening DSA for technical interviews  
+- 📊 Building **end-to-end Data Science projects** (EDA → Feature Engineering → Model Building → Evaluation)  
+- 🤖 Applying **Machine Learning algorithms** on real-world datasets and improving model performance  
+- 🧠 Strengthening **Data Structures & Algorithms** for technical interviews (up to medium level)  
+- 🕸 Collecting and processing real-world data using **Web Scraping (Requests & BeautifulSoup)**  
+- 🌐 Integrating **basic full-stack skills** to deploy and present data-driven applications    
 
 ---
 
@@ -103,7 +120,11 @@
 ## 💬 Developer Mindset
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=00FF00&center=true&vCenter=true&width=600&lines=Write+code.+Break+things.;Debug.+Improve.;Optimize.+Repeat." />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=22C55E&center=true&vCenter=true&width=700&lines=Data+%E2%86%92+Insight+%E2%86%92+Model+%E2%86%92+Impact;Build.+Evaluate.+Iterate.;Consistency+drives+results." />
+<br><br>
+<i>“Without data, you're just another person with an opinion.”</i>
+
 </div>
 
 ---
@@ -112,19 +133,21 @@
 
 <p align="center">
   <a href="mailto:arpitshirbhate4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/arpit-shirbhate-277226320">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://arpitshirbhate.me">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
 ---
 ![arpit2006-space-shooter](https://github.com/user-attachments/assets/50bffabe-5613-4eda-9325-b1b5b753810e)
 
-<p align="center">
-  <i style="color: #00ff00;">“Consistency beats talent when talent doesn’t work consistently.”</i>
-</p>
 
 ## 📊 Dev Metrics
 
