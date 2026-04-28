@@ -152,7 +152,7 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2054%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -193,24 +193,24 @@ Sunday                   66 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   30.75 % 
-Other                    57 mins             ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-SQL                      53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-JSON                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Other                    1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   32.15 % 
+JavaScript               1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Python                   59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+SQL                      52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PassItOn                 1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   32.19 % 
-PASS                     1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   27.17 % 
-Unknown Project          34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-pages                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-GSolns                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+GSolns                   1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+PassItOn                 1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+GoogleSolutions          1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+PASS                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+GSolns1                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
 
 💻 Operating System: 
-Windows                  3 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -226,5 +226,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/04/2026 19:54:12 UTC
+ Last Updated on 28/04/2026 20:00:58 UTC
 <!--END_SECTION:waka-->
