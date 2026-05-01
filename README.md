@@ -152,7 +152,7 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%205%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -193,10 +193,10 @@ Sunday                   66 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   37.92 % 
-JavaScript               1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-Python                   54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-JSON                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Other                    1 hr 57 mins        ██████████░░░░░░░░░░░░░░░   38.21 % 
+Python                   1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+JavaScript               55 mins             █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+JSON                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
 Bash                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 🔥 Editors: 
@@ -205,7 +205,7 @@ VS Code                  5 hrs 7 mins        ███████████�
 🐱‍💻 Projects: 
 GSolns                   1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   28.01 % 
 PassItOn                 1 hr 20 mins        ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-GoogleSolutions          1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+GoogleSolutions          1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
 GSolns1                  33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
 Data Science             17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 
@@ -226,5 +226,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/04/2026 19:56:25 UTC
+ Last Updated on 01/05/2026 19:47:43 UTC
 <!--END_SECTION:waka-->
