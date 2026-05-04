@@ -193,24 +193,24 @@ Sunday                   66 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 40 mins        ██████████░░░░░░░░░░░░░░░   39.25 % 
-Python                   1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-JavaScript               53 mins             █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-Bash                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Other                    1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   35.57 % 
+Python                   1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+JavaScript               42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Bash                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GSolns                   1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   33.64 % 
-GoogleSolutions          1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-PassItOn                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-GSolns1                  33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Data Science             17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+GSolns                   1 hr 26 mins        ██████████░░░░░░░░░░░░░░░   39.11 % 
+GoogleSolutions          1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   29.99 % 
+GSolns1                  33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Data Science             17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Student-Marks-Prediction-10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 
 💻 Operating System: 
-Windows                  4 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -226,5 +226,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2026 19:32:52 UTC
+ Last Updated on 04/05/2026 20:01:21 UTC
 <!--END_SECTION:waka-->
