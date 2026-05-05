@@ -193,24 +193,18 @@ Sunday                   66 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   35.57 % 
-Python                   1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   29.25 % 
-JavaScript               42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Bash                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Python                   9 mins              ███████████████████████░░   91.01 % 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GSolns                   1 hr 26 mins        ██████████░░░░░░░░░░░░░░░   39.11 % 
-GoogleSolutions          1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-GSolns1                  33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Data Science             17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-Student-Marks-Prediction-10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Student-Marks-Prediction-10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -226,5 +220,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2026 20:01:21 UTC
+ Last Updated on 05/05/2026 19:57:33 UTC
 <!--END_SECTION:waka-->
