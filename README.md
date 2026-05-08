@@ -152,7 +152,7 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%208%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -193,18 +193,16 @@ Sunday                   66 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   9 mins              ███████████████████████░░   91.01 % 
-Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Other                    2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Student-Marks-Prediction-10 mins             █████████████████████████   100.00 % 
+Student-Marks-Prediction-2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -220,5 +218,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2026 19:59:05 UTC
+ Last Updated on 08/05/2026 19:53:24 UTC
 <!--END_SECTION:waka-->
