@@ -152,7 +152,7 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2035%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -193,16 +193,20 @@ Sunday                   66 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    2 mins              █████████████████████████   100.00 % 
+Markdown                 24 mins             █████████████████████░░░░   83.82 % 
+Other                    4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  29 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Student-Marks-Prediction-2 mins              █████████████████████████   100.00 % 
+Parampara-Contribution   27 mins             ███████████████████████░░   91.78 % 
+Student-Marks-Prediction-2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -218,5 +222,5 @@ Java                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/05/2026 19:40:08 UTC
+ Last Updated on 10/05/2026 19:39:59 UTC
 <!--END_SECTION:waka-->
