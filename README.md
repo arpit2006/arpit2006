@@ -158,11 +158,11 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 202 Contributions in the Year 2026
+> 🏆 205 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 24 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -212,15 +212,15 @@ Windows                  29 mins             ███████████�
 **I Mostly Code in HTML** 
 
 ```text
-JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Jupyter Notebook         5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-CSS                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+JavaScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+Jupyter Notebook         5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+CSS                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 ```
 
 
 
 
- Last Updated on 12/05/2026 20:14:13 UTC
+ Last Updated on 13/05/2026 20:17:19 UTC
 <!--END_SECTION:waka-->
