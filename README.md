@@ -152,63 +152,18 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2035%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 209 Contributions in the Year 2026
+> 🏆 217 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 25 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-🌆 Daytime                49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-🌃 Evening                247 commits         █████████████████░░░░░░░░   68.42 % 
-🌙 Night                  53 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   97 commits          ███████░░░░░░░░░░░░░░░░░░   26.87 % 
-Tuesday                  31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Wednesday                43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Thursday                 50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Friday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Saturday                 54 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Sunday                   66 commits          █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 24 mins             █████████████████████░░░░   83.82 % 
-Other                    4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Parampara-Contribution   27 mins             ███████████████████████░░   91.78 % 
-Student-Marks-Prediction-2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-
-💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -222,5 +177,5 @@ Java                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 20:12:54 UTC
+ Last Updated on 15/05/2026 19:59:46 UTC
 <!--END_SECTION:waka-->
