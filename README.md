@@ -156,7 +156,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 226 Contributions in the Year 2026
+> 🏆 232 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -164,53 +164,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-🌆 Daytime                52 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-🌃 Evening                248 commits         █████████████████░░░░░░░░   67.95 % 
-🌙 Night                  53 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   97 commits          ███████░░░░░░░░░░░░░░░░░░   26.58 % 
-Tuesday                  31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Wednesday                43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Thursday                 50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Friday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Saturday                 58 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Sunday                   66 commits          █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 1 hr 39 mins        ██████████████░░░░░░░░░░░   56.87 % 
-HTML                     39 mins             ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-Other                    34 mins             █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 55 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-BiblioDrift-Contribution 1 hr 25 mins        ████████████░░░░░░░░░░░░░   49.01 % 
-GSoC-Org-Contribution    53 mins             ████████░░░░░░░░░░░░░░░░░   30.51 % 
-Parampara-Contribution   25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-call_QqMwJjKB8nWBwp442Wh08 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-assets                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-
-💻 Operating System: 
-Windows                  2 hrs 55 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -224,5 +177,5 @@ Java                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2026 19:38:24 UTC
+ Last Updated on 17/05/2026 19:44:12 UTC
 <!--END_SECTION:waka-->
