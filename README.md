@@ -152,11 +152,13 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%201%20min-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 232 Contributions in the Year 2026
+> 🏆 242 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -164,18 +166,66 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+🌆 Daytime                56 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+🌃 Evening                254 commits         █████████████████░░░░░░░░   67.73 % 
+🌙 Night                  53 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   100 commits         ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Tuesday                  31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Wednesday                43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Thursday                 50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Friday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Saturday                 60 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Sunday                   71 commits          █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    2 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+Markdown                 2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+HTML                     2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+CSS                      1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+
+🔥 Editors: 
+VS Code                  10 hrs 52 mins      █████████████████████████   99.99 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🐱‍💻 Projects: 
+BiblioDrift-Contribution 6 hrs 28 mins       ███████████████░░░░░░░░░░   59.54 % 
+GSoC-Org-Contribution    2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+arpitshirbhate.github.io 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+pages                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+
+💻 Operating System: 
+Windows                  10 hrs 52 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in HTML** 
 
 ```text
-JavaScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Jupyter Notebook         5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-CSS                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JavaScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+Jupyter Notebook         5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+CSS                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
 ```
 
 
 
 
- Last Updated on 17/05/2026 19:44:12 UTC
+ Last Updated on 18/05/2026 20:12:03 UTC
 <!--END_SECTION:waka-->
