@@ -143,7 +143,8 @@
 </p>
 
 ---
-![arpit2006-space-shooter](https://github.com/user-attachments/assets/50bffabe-5613-4eda-9325-b1b5b753810e)
+<img width="860" height="230" alt="arpit2006-space-shooter (1)" src="https://github.com/user-attachments/assets/9205b7b5-59fb-41ce-bfb2-d933e86f37aa" />
+
 
 
 ## 📊 Dev Metrics
