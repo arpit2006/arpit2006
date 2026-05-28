@@ -22,11 +22,8 @@
 
 - 🎓 Computer Science student at **Vellore Institute of Technology, Andhra Pradesh**
 - 📊 Aspiring **Data Scientist** with a strong focus on **Data Analysis, Machine Learning, and problem solving**
-- 🧠 Solid foundation in **Data Structures & Algorithms** and **Object-Oriented Programming (Java)**
 - 🐍 Working with **Python ecosystem** for data science — Pandas, NumPy, Matplotlib, scikit-learn
 - 📈 Building **end-to-end data projects** involving EDA, feature engineering, and model development
-- 🕸 Experienced in **web scraping** using Requests & BeautifulSoup for real-world data collection
-- 🌐 Familiar with **full-stack basics** (React, Node.js) for deploying and presenting projects
 - 🐧 Comfortable working in **Linux (Fedora)** and developer tools like Git & VS Code
 - 🚀 Focused on writing **clean, efficient, and scalable code** and continuously improving through practice
 
