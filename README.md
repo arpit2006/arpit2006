@@ -154,73 +154,26 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 317 Contributions in the Year 2026
+> 🏆 334 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 31 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-🌆 Daytime                71 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-🌃 Evening                301 commits         █████████████████░░░░░░░░   68.56 % 
-🌙 Night                  55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   109 commits         ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-Tuesday                  34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Wednesday                55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Thursday                 53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Friday                   35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Saturday                 76 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Sunday                   77 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-HTML                     4 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   28.81 % 
-Python                   4 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.61 % 
-TypeScript               3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-CSS                      1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Markdown                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-
-🔥 Editors: 
-VS Code                  16 hrs 43 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-BiblioDrift-Contribution 5 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   32.43 % 
-Data Science             5 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   30.95 % 
-space-portfolio          2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-github_tracker           1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-SecuScan-Contribution    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-
-💻 Operating System: 
-Windows                  16 hrs 43 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in HTML** 
 
 ```text
-JavaScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Jupyter Notebook         7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+JavaScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Jupyter Notebook         7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 ```
 
 
 
 
- Last Updated on 27/05/2026 20:33:45 UTC
+ Last Updated on 28/05/2026 20:42:33 UTC
 <!--END_SECTION:waka-->
