@@ -150,13 +150,13 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2019%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 402 Contributions in the Year 2026
+> 🏆 410 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -191,38 +191,38 @@ Sunday                   84 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               8 hrs 28 mins       ████████████░░░░░░░░░░░░░   49.56 % 
-Python                   2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-JavaScript               1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-HTML                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Markdown                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+TypeScript               7 hrs 1 min         ██████████░░░░░░░░░░░░░░░   39.61 % 
+Python                   4 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+HTML                     2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+JavaScript               1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  17 hrs 43 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-github_tracker           5 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   30.68 % 
-DevPath-Web-             3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Data Science             2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-BiblioDrift-Contribution 2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-PulseStack-Contribution  1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Data Science             3 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+github_tracker           3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+DevPath-Web-             3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+GSoC-Org-Contribution    2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+BiblioDrift-Contribution 1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
 
 💻 Operating System: 
-Windows                  17 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  17 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in HTML** 
+**I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-TypeScript               11 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Jupyter Notebook         10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+JavaScript               14 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               11 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Jupyter Notebook         10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 ```
 
 
 
 
- Last Updated on 04/06/2026 20:32:56 UTC
+ Last Updated on 05/06/2026 20:24:35 UTC
 <!--END_SECTION:waka-->
