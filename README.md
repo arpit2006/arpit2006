@@ -144,7 +144,9 @@
 
 ---
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpit2006&theme=react-dark&bg_color=0D1117&color=58A6FF&line=3FB950&point=C9D1D9&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<img width="860" height="230" alt="arpit2006-space-shooter (1)" src="https://github.com/user-attachments/assets/9205b7b5-59fb-41ce-bfb2-d933e86f37aa" />
+
+<img width="860" height="230" alt="arpit2006-space-shooter (1)" src="https://github.com/user-attachments/assets/eb4bc18b-55b7-40c3-8040-71e6421ce179" />
+
 
 
 
