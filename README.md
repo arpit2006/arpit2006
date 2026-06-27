@@ -12,9 +12,9 @@
   <img src="https://img.shields.io/badge/DATA%20LOGS-STREAMING-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=00e5ff"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/arpit2006/arpit2006/main/assets/octocat.png" width="260" />
 
 </div>
+<img width="1200" height="675" alt="68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f32326232323238373630323532332e356462643239303831353631642e676966" src="https://github.com/user-attachments/assets/3e4a4da7-fecd-43d2-81c6-693f3fddaeb1" />
 
 ---
 
@@ -143,6 +143,7 @@
 </p>
 
 ---
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpit2006&theme=react-dark&bg_color=0D1117&color=58A6FF&line=3FB950&point=C9D1D9&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img width="860" height="230" alt="arpit2006-space-shooter (1)" src="https://github.com/user-attachments/assets/9205b7b5-59fb-41ce-bfb2-d933e86f37aa" />
 
 
