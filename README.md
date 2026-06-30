@@ -153,7 +153,7 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2012%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -170,21 +170,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-🌆 Daytime                229 commits         ████████░░░░░░░░░░░░░░░░░   31.20 % 
-🌃 Evening                372 commits         █████████████░░░░░░░░░░░░   50.68 % 
-🌙 Night                  90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+🌞 Morning                43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+🌆 Daytime                236 commits         ████████░░░░░░░░░░░░░░░░░   31.51 % 
+🌃 Evening                379 commits         █████████████░░░░░░░░░░░░   50.60 % 
+🌙 Night                  91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   164 commits         ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-Tuesday                  107 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Wednesday                111 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Thursday                 82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Friday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Saturday                 105 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Sunday                   101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Monday                   168 commits         ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+Tuesday                  109 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Wednesday                112 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Thursday                 83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Friday                   69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Saturday                 105 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Sunday                   103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
 ```
 
 
@@ -194,22 +194,22 @@ Sunday                   101 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 28 mins        ███████████████████████░░   91.34 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-EJS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Python                   2 hrs 25 mins       ████████████████████████░   94.56 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+EJS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Data Science             1 hr 28 mins        ███████████████████████░░   92.03 % 
-PatchPilot               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-CampussCompass           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Data Science             2 hrs 25 mins       ████████████████████████░   95.00 % 
+PatchPilot               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+CampussCompass           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 💻 Operating System: 
-Windows                  1 hr 36 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -225,5 +225,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2026 20:24:54 UTC
+ Last Updated on 30/06/2026 20:30:24 UTC
 <!--END_SECTION:waka-->
