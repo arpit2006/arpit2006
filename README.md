@@ -159,32 +159,32 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 720 Contributions in the Year 2026
+> 🏆 753 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-🌆 Daytime                252 commits         ████████░░░░░░░░░░░░░░░░░   32.94 % 
-🌃 Evening                379 commits         ████████████░░░░░░░░░░░░░   49.54 % 
-🌙 Night                  91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+🌞 Morning                43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+🌆 Daytime                253 commits         ████████░░░░░░░░░░░░░░░░░   31.90 % 
+🌃 Evening                406 commits         █████████████░░░░░░░░░░░░   51.20 % 
+🌙 Night                  91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   168 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-Tuesday                  109 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Wednesday                128 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Thursday                 83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Friday                   69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Saturday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Sunday                   103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Monday                   168 commits         █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+Tuesday                  109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Wednesday                128 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Thursday                 106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Friday                   71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Saturday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Sunday                   106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
 ```
 
 
@@ -194,36 +194,36 @@ Sunday                   103 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   5 hrs 21 mins       ████████████████████████░   97.47 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Python                   5 hrs 21 mins       █████████████████████████   98.29 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 EJS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 30 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Data Science             5 hrs 22 mins       ████████████████████████░   97.67 % 
-PatchPilot               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-CampussCompass           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Data Science             5 hrs 22 mins       █████████████████████████   98.50 % 
+PatchPilot               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+CampussCompass           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 💻 Operating System: 
-Windows                  5 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               17 repos            ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-Jupyter Notebook         11 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+JavaScript               17 repos            ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+Jupyter Notebook         11 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+EJS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 
 
 
 
- Last Updated on 01/07/2026 20:24:25 UTC
+ Last Updated on 02/07/2026 20:02:55 UTC
 <!--END_SECTION:waka-->
