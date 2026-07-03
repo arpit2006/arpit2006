@@ -153,13 +153,13 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%208%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 753 Contributions in the Year 2026
+> 🏆 759 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -170,21 +170,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-🌆 Daytime                253 commits         ████████░░░░░░░░░░░░░░░░░   31.90 % 
-🌃 Evening                406 commits         █████████████░░░░░░░░░░░░   51.20 % 
-🌙 Night                  91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+🌞 Morning                43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+🌆 Daytime                264 commits         ████████░░░░░░░░░░░░░░░░░   32.80 % 
+🌃 Evening                407 commits         █████████████░░░░░░░░░░░░   50.56 % 
+🌙 Night                  91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   168 commits         █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-Tuesday                  109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Wednesday                128 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Thursday                 106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Friday                   71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Saturday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Sunday                   106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Monday                   168 commits         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Tuesday                  109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Wednesday                129 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Thursday                 106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Friday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Saturday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Sunday                   107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
 ```
 
 
@@ -194,22 +194,22 @@ Sunday                   106 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   5 hrs 21 mins       █████████████████████████   98.29 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-EJS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   4 hrs 53 mins       █████████████████████████   98.38 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+EJS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Data Science             5 hrs 22 mins       █████████████████████████   98.50 % 
-PatchPilot               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-CampussCompass           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Data Science             4 hrs 53 mins       █████████████████████████   98.42 % 
+PatchPilot               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+CampussCompass           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Windows                  5 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -225,5 +225,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/07/2026 20:02:55 UTC
+ Last Updated on 03/07/2026 19:59:44 UTC
 <!--END_SECTION:waka-->
