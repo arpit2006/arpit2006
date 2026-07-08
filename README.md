@@ -159,7 +159,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 770 Contributions in the Year 2026
+> 🏆 773 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -194,17 +194,17 @@ Sunday                   108 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs               █████████████████████████   99.95 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Python                   59 mins             █████████████████████████   99.78 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-VS Code                  4 hrs               █████████████████████████   100.00 % 
+VS Code                  59 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Data Science             4 hrs               █████████████████████████   100.00 % 
+Data Science             59 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs               █████████████████████████   100.00 % 
+Windows                  59 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -220,5 +220,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/07/2026 20:26:09 UTC
+ Last Updated on 08/07/2026 20:04:31 UTC
 <!--END_SECTION:waka-->
