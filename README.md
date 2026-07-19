@@ -153,11 +153,13 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2029%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 312.2 kB Used in GitHub's Storage 
  > 
-> 🏆 820 Contributions in the Year 2026
+> 🏆 831 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -168,21 +170,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-🌆 Daytime                274 commits         ████████░░░░░░░░░░░░░░░░░   32.16 % 
-🌃 Evening                443 commits         █████████████░░░░░░░░░░░░   52.00 % 
-🌙 Night                  91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+🌞 Morning                44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+🌆 Daytime                274 commits         ████████░░░░░░░░░░░░░░░░░   31.97 % 
+🌃 Evening                447 commits         █████████████░░░░░░░░░░░░   52.16 % 
+🌙 Night                  92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   171 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-Tuesday                  115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Wednesday                143 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Thursday                 108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Friday                   97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Saturday                 108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Sunday                   110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Monday                   171 commits         █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Tuesday                  115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Wednesday                143 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Thursday                 110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Friday                   97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Sunday                   112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
 ```
 
 
@@ -221,5 +223,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/07/2026 13:08:23 UTC
+ Last Updated on 19/07/2026 19:41:36 UTC
 <!--END_SECTION:waka-->
