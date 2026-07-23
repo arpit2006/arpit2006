@@ -153,13 +153,11 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%2051%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 312.2 kB Used in GitHub's Storage 
  > 
-> 🏆 842 Contributions in the Year 2026
+> 🏆 843 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -167,51 +165,6 @@
  > 
 > 🔑 36 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-🌆 Daytime                278 commits         ████████░░░░░░░░░░░░░░░░░   31.74 % 
-🌃 Evening                462 commits         █████████████░░░░░░░░░░░░   52.74 % 
-🌙 Night                  92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   175 commits         █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-Tuesday                  116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Wednesday                157 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-Thursday                 110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Friday                   97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Sunday                   112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   3 hrs 38 mins       ████████████████████████░   97.76 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 43 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-House Predictions        1 hr 29 mins        ██████████░░░░░░░░░░░░░░░   40.24 % 
-Data Science             1 hr 25 mins        ██████████░░░░░░░░░░░░░░░   38.16 % 
-RAG                      34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Online Retail            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-scripts                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-
-💻 Operating System: 
-Windows                  3 hrs 43 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -225,5 +178,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2026 19:53:45 UTC
+ Last Updated on 23/07/2026 19:57:07 UTC
 <!--END_SECTION:waka-->
