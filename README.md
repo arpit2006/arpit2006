@@ -153,11 +153,15 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2020%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-77%20hrs%2047%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
-> 📦 312.4 kB Used in GitHub's Storage 
+> 📦 312.5 kB Used in GitHub's Storage 
  > 
-> 🏆 942 Contributions in the Year 2026
+> 🏆 953 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -165,6 +169,74 @@
  > 
 > 🔑 36 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+🌆 Daytime                674 commits         █████████░░░░░░░░░░░░░░░░   36.89 % 
+🌃 Evening                868 commits         ████████████░░░░░░░░░░░░░   47.51 % 
+🌙 Night                  213 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Tuesday                  259 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Wednesday                497 commits         ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+Thursday                 157 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Friday                   269 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Saturday                 223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Sunday                   192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+YAML                     3 mins              ███████████░░░░░░░░░░░░░░   42.59 % 
+Markdown                 3 mins              █████████░░░░░░░░░░░░░░░░   36.70 % 
+Java                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+VS Code                  8 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+GSoC-Org-Contribution    4 mins              ████████████░░░░░░░░░░░░░   47.70 % 
+IFOG                     4 mins              ████████████░░░░░░░░░░░░░   47.47 % 
+Prompt-Enhancer          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+test-prompt              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+💻 Operating System: 
+Windows                  8 mins              █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 0 secs (0.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 66,156 Input Tokens, 678 Output Tokens
+
+💵 $0.21 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 55 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -178,5 +250,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 20:02:28 UTC
+ Last Updated on 29/07/2026 19:54:06 UTC
 <!--END_SECTION:waka-->
