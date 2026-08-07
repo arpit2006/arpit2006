@@ -153,15 +153,11 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2026%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-77%20hrs%2048%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 328.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,003 Contributions in the Year 2026
+> 🏆 1,004 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -169,72 +165,6 @@
  > 
 > 🔑 36 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                75 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-🌆 Daytime                715 commits         █████████░░░░░░░░░░░░░░░░   35.86 % 
-🌃 Evening                978 commits         ████████████░░░░░░░░░░░░░   49.05 % 
-🌙 Night                  226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Tuesday                  291 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Wednesday                540 commits         ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-Thursday                 162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Friday                   290 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Saturday                 252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Sunday                   211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               7 mins              ██████████████░░░░░░░░░░░   57.77 % 
-HTML                     5 mins              █████████░░░░░░░░░░░░░░░░   37.82 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-
-🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-public                   7 mins              ██████████████░░░░░░░░░░░   57.77 % 
-ECS                      5 mins              █████████░░░░░░░░░░░░░░░░   37.82 % 
-arpitshirbhate.github.io 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-components               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-
-💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 7 mins (58.09%)
-
-✍️ 0 lines written by AI, 8 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 2 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 43 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -248,5 +178,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:08:32 UTC
+ Last Updated on 07/08/2026 00:25:28 UTC
 <!--END_SECTION:waka-->
