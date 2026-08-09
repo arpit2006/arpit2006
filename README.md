@@ -155,8 +155,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%2043%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 328.2 kB Used in GitHub's Storage 
@@ -216,28 +214,6 @@ components               0 secs              ░░░░░░░░░░░�
 Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 2 mins (88.63%)
-
-✍️ 683 lines written by AI, 8 lines written by hand (98.84% AI-written)
-
-🔤 308,195 Input Tokens, 44,345 Output Tokens
-
-💵 $2.78 Estimated AI Cost This Week
-
-🧠 8 AI Sessions, 29 AI Prompts
-
-GPT                      713 lines           █████████████████████████   100.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.84% of written lines came from AI
-📝 Concise Prompter — average 409 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.11% of changed lines were hand-edited
-```
 
 **I Mostly Code in JavaScript** 
 
