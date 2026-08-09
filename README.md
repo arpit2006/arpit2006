@@ -153,13 +153,15 @@
 ## 📊 Dev Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%204%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 328.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,030 Contributions in the Year 2026
+> 🏆 1,033 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -170,21 +172,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-🌆 Daytime                758 commits         █████████░░░░░░░░░░░░░░░░   35.44 % 
-🌃 Evening                1062 commits        ████████████░░░░░░░░░░░░░   49.65 % 
-🌙 Night                  241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+🌞 Morning                78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+🌆 Daytime                760 commits         █████████░░░░░░░░░░░░░░░░   35.48 % 
+🌃 Evening                1063 commits        ████████████░░░░░░░░░░░░░   49.63 % 
+🌙 Night                  241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Tuesday                  307 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Wednesday                581 commits         ███████░░░░░░░░░░░░░░░░░░   27.16 % 
-Thursday                 169 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-Friday                   321 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Saturday                 282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Sunday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Monday                   254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Tuesday                  307 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Wednesday                581 commits         ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+Thursday                 169 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Friday                   321 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Saturday                 282 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Sunday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
 ```
 
 
@@ -194,26 +196,48 @@ Sunday                   225 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     37 mins             █████████████░░░░░░░░░░░░   52.78 % 
-Markdown                 19 mins             ███████░░░░░░░░░░░░░░░░░░   26.98 % 
-JavaScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+HTML                     52 mins             █████████████░░░░░░░░░░░░   50.04 % 
+Markdown                 31 mins             ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 45 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-EDA Agent                57 mins             ████████████████████░░░░░   81.15 % 
-public                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-ECS                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-arpitshirbhate.github.io 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-components               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+EDA Agent                1 hr 1 min          ███████████████░░░░░░░░░░   58.82 % 
+IFOG                     31 mins             ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+New folder               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+public                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+arpitshirbhate.github.io 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 💻 Operating System: 
-Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 16 mins (73.24%)
+
+✍️ 729 lines written by AI, 3 lines written by hand (99.59% AI-written)
+
+🔤 524,793 Input Tokens, 66,012 Output Tokens
+
+💵 $4.13 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 40 AI Prompts
+
+GPT                      759 lines           █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.59% of written lines came from AI
+📝 Concise Prompter — average 408 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 58.46% of changed lines were hand-edited
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -228,5 +252,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 19:10:37 UTC
+ Last Updated on 09/08/2026 19:13:16 UTC
 <!--END_SECTION:waka-->
